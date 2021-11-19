@@ -1,0 +1,8 @@
+.vs/
+.vscode/
+Binaries/
+Build/
+Intermediate/
+Saved/
+SacredTenet.sln
+DerivedDataCache/
